@@ -1,0 +1,16 @@
+{
+  "name": "portfolio-v2027",
+  "version": "1.0.0",
+  "description": "Full Stack Developer Portfolio powered by Bun",
+  "main": "server.ts",
+  "scripts": {
+    "start": "bun run server.ts",
+    "dev": "bun run --watch server.ts"
+  },
+  "keywords": ["portfolio", "bun", "typescript"],
+  "author": "NAYGOLF (KCCHDEV)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
